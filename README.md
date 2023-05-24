@@ -11,6 +11,7 @@
 
   <h2>Demo</h2>
   <img src="https://drive.google.com/file/d/1C9f2wpk_2JbgqvqvwJXyxwOWGTd1N3qL/view?usp=sharing" alt="">
+  <link>https://drive.google.com/file/d/1C9f2wpk_2JbgqvqvwJXyxwOWGTd1N3qL/view?usp=sharing</link>
    
   <h2>Deployed link</h2>
   <img src="https://bookmyshow-client1.onrender.com/" alt="">
